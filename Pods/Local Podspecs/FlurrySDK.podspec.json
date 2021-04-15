@@ -1,0 +1,31 @@
+{
+  "name": "FlurrySDK",
+  "version": "1.0",
+  "authors": [
+    "Coconut Corp",
+    {
+      "Monkey Boy": "monkey@coconut-corp.local"
+    }
+  ],
+  "homepage": "http://coconut-corp.local/coconut-lib.html",
+  "summary": "Coconuts For the Win.",
+  "description": "All the Coconuts",
+  "source": {
+    "git": "http://coconut-corp.local/coconut-lib.git",
+    "tag": "v1.0"
+  },
+  "license": {
+    "type": "MIT",
+    "text": "Permission is hereby granted ..."
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "9.0",
+    "watchos": "2.0",
+    "tvos": "9.0"
+  },
+  "vendored_frameworks": [
+    "Flurry.xcframework",
+    "CrashReporter.xcframework"
+  ]
+}

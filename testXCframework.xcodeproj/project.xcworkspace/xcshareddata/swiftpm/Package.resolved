@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Flurry",
+        "repositoryURL": "https://github.com/flurry/FlurrySwiftPackage",
+        "state": {
+          "branch": null,
+          "revision": "139df375d85d328e7731db855a32538bb0b927c9",
+          "version": "11.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

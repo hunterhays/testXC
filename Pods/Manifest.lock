@@ -1,0 +1,16 @@
+PODS:
+  - FlurrySDK (1.0)
+
+DEPENDENCIES:
+  - FlurrySDK (from `~/Downloads/FlurryXCFramework/`)
+
+EXTERNAL SOURCES:
+  FlurrySDK:
+    :path: "~/Downloads/FlurryXCFramework/"
+
+SPEC CHECKSUMS:
+  FlurrySDK: 4557f84d1fb2f002b53cb22ed0386e4af32ec6a4
+
+PODFILE CHECKSUM: fac0dbbd9557adc002f54d66139f438a6dcd94c7
+
+COCOAPODS: 1.10.1
