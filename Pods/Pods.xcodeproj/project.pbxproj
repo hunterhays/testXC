@@ -59,39 +59,39 @@
 		05DC5C570FDD9385AE787728508E1057 /* Pods-testXCframework-testXCframeworkUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframework-testXCframeworkUITests-Info.plist"; sourceTree = "<group>"; };
 		078812E6B0856DE7A5C9E65115430F70 /* Pods-testXCframework.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframework.debug.xcconfig"; sourceTree = "<group>"; };
 		089458BED76488FDACBDD4B5B547796A /* Pods-testXCframework-testXCframeworkUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-testXCframework-testXCframeworkUITests-umbrella.h"; sourceTree = "<group>"; };
-		1132D9F84D67DED37E7E657B789402DE /* CrashReporter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = CrashReporter.xcframework; sourceTree = "<group>"; };
+		0B010E40E14B9727C4E51E779466C5E7 /* FlurrySDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FlurrySDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		167B8EC2A2EA28E371B47CF872D98793 /* Pods-testXCframework-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-testXCframework-umbrella.h"; sourceTree = "<group>"; };
+		1F6BF08140790F329D7F156E8C78F0CB /* FlurrySDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "FlurrySDK-xcframeworks.sh"; sourceTree = "<group>"; };
 		247FE0B6703971F7F255DA931F716234 /* Pods-testXCframework.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-testXCframework.modulemap"; sourceTree = "<group>"; };
 		2718C111F33B1FB1690012D682A6965B /* Pods_testXCframeworkTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_testXCframeworkTests.framework; path = "Pods-testXCframeworkTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		28A18323DA9E6F8F5F6C81D0473EB186 /* Pods-testXCframework-testXCframeworkUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-testXCframework-testXCframeworkUITests.modulemap"; sourceTree = "<group>"; };
 		29ED355003CCE15D098F32630867414E /* Pods-testXCframework-testXCframeworkUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-testXCframework-testXCframeworkUITests-frameworks.sh"; sourceTree = "<group>"; };
 		2BE5445F28520A54928875E48D75EE65 /* Pods-testXCframework-testXCframeworkUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframework-testXCframeworkUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		3F9EFF0E72BD31643010605E81206EEC /* FlurrySDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlurrySDK.release.xcconfig; sourceTree = "<group>"; };
 		44C8B50FCED9AE447AE6F545EB63EACB /* Pods-testXCframeworkTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframeworkTests.debug.xcconfig"; sourceTree = "<group>"; };
 		464F1B39E2737AA3A008C8CB4956FF00 /* Pods-testXCframeworkTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-testXCframeworkTests.modulemap"; sourceTree = "<group>"; };
-		513AD0083A51DCDDC785899CAD006342 /* FlurrySDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "FlurrySDK-xcframeworks.sh"; sourceTree = "<group>"; };
 		5CD209C5DAD47CA2E17229023F86F70B /* Pods-testXCframeworkTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframeworkTests.release.xcconfig"; sourceTree = "<group>"; };
 		6C03C26853CCEE775DD263489213CA23 /* Pods-testXCframework-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-testXCframework-dummy.m"; sourceTree = "<group>"; };
 		6E6DE820A80BACFFC6EA25C616D63962 /* Pods-testXCframework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframework.release.xcconfig"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7EF0C36E57B10AB768171C87424ED00E /* Pods-testXCframeworkTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframeworkTests-Info.plist"; sourceTree = "<group>"; };
-		807D438AE01E7F6A7E808401BE31A6B6 /* FlurrySDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlurrySDK.debug.xcconfig; sourceTree = "<group>"; };
 		8223D19D5D7C64BDFE06326545617FE3 /* Pods-testXCframework-testXCframeworkUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframework-testXCframeworkUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		83E9FFD8CC5491AC432C574AC4A67E41 /* Pods-testXCframeworkTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-testXCframeworkTests-dummy.m"; sourceTree = "<group>"; };
+		97A2217DE1DF3F06B3DA92CA01D9CEAA /* Flurry.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = Flurry.xcframework; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A202C171D5ED8DBECBA40550F47BD0F5 /* FlurrySDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlurrySDK.debug.xcconfig; sourceTree = "<group>"; };
 		A3D1D733523C5D058560E172ED9A42B4 /* Pods-testXCframeworkTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframeworkTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A6865BEEA4C95E4B2F421708ECD83EC8 /* Pods-testXCframework-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-testXCframework-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A780AF476DEBDD0A6AD0CF9EE84C667B /* Pods-testXCframework-testXCframeworkUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-testXCframework-testXCframeworkUITests.release.xcconfig"; sourceTree = "<group>"; };
 		A9AA6119A717AD04EBB5F9ECD920F530 /* Pods_testXCframework_testXCframeworkUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_testXCframework_testXCframeworkUITests.framework; path = "Pods-testXCframework-testXCframeworkUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3E3E16D6F99B75AE1241E11D386451E /* Pods-testXCframeworkTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-testXCframeworkTests-umbrella.h"; sourceTree = "<group>"; };
+		B79904111B9C32477054738727930273 /* CrashReporter.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = CrashReporter.xcframework; sourceTree = "<group>"; };
+		BC194CC08100824200B918D3294C1810 /* FlurrySDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlurrySDK.release.xcconfig; sourceTree = "<group>"; };
 		C442CCC63A49AA76B7C128CE3C7E71DA /* Pods-testXCframework-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframework-acknowledgements.plist"; sourceTree = "<group>"; };
 		C73B635E056FF9A24E4DB121B828A81E /* Pods_testXCframework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_testXCframework.framework; path = "Pods-testXCframework.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAD5A30A142BF0A0894C30B279172862 /* Pods-testXCframework-testXCframeworkUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-testXCframework-testXCframeworkUITests-dummy.m"; sourceTree = "<group>"; };
 		E06A72B84FA9834B2C6059654178F6C2 /* Pods-testXCframework-testXCframeworkUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-testXCframework-testXCframeworkUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E7890D0D2DB60B0517434D479B08F342 /* Pods-testXCframework-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-testXCframework-frameworks.sh"; sourceTree = "<group>"; };
-		E9D6A128C72C900926DEF8D46FE8B8EA /* FlurrySDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FlurrySDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		ECBDD4D9E6556B341F8CE621D2C6FCF2 /* Pods-testXCframework-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-testXCframework-Info.plist"; sourceTree = "<group>"; };
-		EFB109AE67021D02ADCB35DBF34F76A7 /* Flurry.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = Flurry.xcframework; sourceTree = "<group>"; };
 		F4CB328456C4EFA8F4C584FAC4560F3C /* Pods-testXCframeworkTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-testXCframeworkTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -123,6 +123,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2363D13D6CF5A72DA8BBD0A38C0CD4C2 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				0B010E40E14B9727C4E51E779466C5E7 /* FlurrySDK.podspec */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		238C36A28D28AEE85B38E110B68980DB /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -133,10 +141,19 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		2F080A850296CEA584F7A5806C9191A9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B79904111B9C32477054738727930273 /* CrashReporter.xcframework */,
+				97A2217DE1DF3F06B3DA92CA01D9CEAA /* Flurry.xcframework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		462703BA59B5C67579221E499081E568 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C7D075C1E9F3F1999647BC8251A03382 /* FlurrySDK */,
+				BF9BC1693755687A416BC17DEDE625A4 /* FlurrySDK */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -147,17 +164,6 @@
 				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		5E15851D2823AC7EE8B52DD71AE21F7B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				513AD0083A51DCDDC785899CAD006342 /* FlurrySDK-xcframeworks.sh */,
-				807D438AE01E7F6A7E808401BE31A6B6 /* FlurrySDK.debug.xcconfig */,
-				3F9EFF0E72BD31643010605E81206EEC /* FlurrySDK.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "../../testXCframework/Pods/Target Support Files/FlurrySDK";
 			sourceTree = "<group>";
 		};
 		669F0A6844BB1C935D5D3C154F931976 /* Pods-testXCframework-testXCframeworkUITests */ = {
@@ -220,12 +226,23 @@
 			path = "Target Support Files/Pods-testXCframework";
 			sourceTree = "<group>";
 		};
-		C7D075C1E9F3F1999647BC8251A03382 /* FlurrySDK */ = {
+		BE7E2689C1AA3C18B18931E08439C3AF /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				D10B204E370CD6828557A73F7719E9DB /* Frameworks */,
-				E1EBAAB253EC72B7DD452A00C21C1BBE /* Pod */,
-				5E15851D2823AC7EE8B52DD71AE21F7B /* Support Files */,
+				1F6BF08140790F329D7F156E8C78F0CB /* FlurrySDK-xcframeworks.sh */,
+				A202C171D5ED8DBECBA40550F47BD0F5 /* FlurrySDK.debug.xcconfig */,
+				BC194CC08100824200B918D3294C1810 /* FlurrySDK.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "../../testXC/Pods/Target Support Files/FlurrySDK";
+			sourceTree = "<group>";
+		};
+		BF9BC1693755687A416BC17DEDE625A4 /* FlurrySDK */ = {
+			isa = PBXGroup;
+			children = (
+				2F080A850296CEA584F7A5806C9191A9 /* Frameworks */,
+				2363D13D6CF5A72DA8BBD0A38C0CD4C2 /* Pod */,
+				BE7E2689C1AA3C18B18931E08439C3AF /* Support Files */,
 			);
 			name = FlurrySDK;
 			path = /Users/hhays/Downloads/FlurryXCFramework;
@@ -242,29 +259,12 @@
 			);
 			sourceTree = "<group>";
 		};
-		D10B204E370CD6828557A73F7719E9DB /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1132D9F84D67DED37E7E657B789402DE /* CrashReporter.xcframework */,
-				EFB109AE67021D02ADCB35DBF34F76A7 /* Flurry.xcframework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		E1EBAAB253EC72B7DD452A00C21C1BBE /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E9D6A128C72C900926DEF8D46FE8B8EA /* FlurrySDK.podspec */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -479,7 +479,7 @@
 /* Begin XCBuildConfiguration section */
 		1F1FAE2570B19A50CC3CE0BC8D508FAD /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3F9EFF0E72BD31643010605E81206EEC /* FlurrySDK.release.xcconfig */;
+			baseConfigurationReference = BC194CC08100824200B918D3294C1810 /* FlurrySDK.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -708,7 +708,7 @@
 		};
 		B8BD6FDAC50597D827039CFDA36B5AD4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 807D438AE01E7F6A7E808401BE31A6B6 /* FlurrySDK.debug.xcconfig */;
+			baseConfigurationReference = A202C171D5ED8DBECBA40550F47BD0F5 /* FlurrySDK.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
